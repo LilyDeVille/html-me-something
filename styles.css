@@ -1,0 +1,154 @@
+body {
+    background-color: gray;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+  }
+
+  .movie1 {
+    width: 1800px;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.movie1 img {
+    margin-right: 15px;
+    float: left;
+}
+
+.movie1 h2 {
+    font-size: 50px;
+}
+.movie1 p{
+    font-size: 35px;
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
+
+
+/* second film time */
+
+.movie2 {
+    width: 1800px;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.movie2 img {
+    margin-right: 15px;
+    float: right;
+}
+
+.movie2 h2 {
+    font-size: 50px;
+}
+.movie2 p{
+    font-size: 35px;
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
+
+/* film three time babey */
+
+.movie3 {
+    width: 1800px;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.movie3 img {
+    margin-right: 15px;
+    float: left;
+}
+
+.movie3 h2 {
+    font-size: 50px;
+}
+.movie3 p{
+    font-size: 35px;
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
+
+/* four */
+
+.movie4 {
+    width: 1800px;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.movie4 img {
+    margin-right: 15px;
+    float: right;
+}
+
+.movie4 h2 {
+    font-size: 50px;
+}
+.movie4 p{
+    font-size: 35px;
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
+
+/* five */
+
+.movie5 {
+    width: 1800px;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.movie5 img {
+    margin-right: 15px;
+    float: left;
+}
+
+.movie5 h2 {
+    font-size: 50px;
+}
+.movie5 p{
+    font-size: 35px;
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
+
+/* six */
+
+.movie6 {
+    width: 1800px;
+    border: 4px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.movie6 img {
+    margin-right: 15px;
+    float: right;
+}
+
+.movie6 h2 {
+    font-size: 50px;
+}
+.movie6 p{
+    font-size: 35px;
+    margin-left: 15px;
+    display: block;
+    margin: 2px 0 0 0;
+}
+
+
